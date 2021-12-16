@@ -1,11 +1,11 @@
 {
-  "name": "@long-view/button",
+  "name": "@long-view/row",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "longlong <562172151@qq.com>",
-  "homepage": "",
+  "homepage": "https://github.com/beyondOurself/long-view#readme",
   "license": "ISC",
-  "main": "lib/button.js",
+  "main": "lib/row.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -16,8 +16,14 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beyondOurself/long-view.git"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "e4f5ad83dedcf57e34275873911f6dd6912ac95c"
+  "bugs": {
+    "url": "https://github.com/beyondOurself/long-view/issues"
+  }
 }
